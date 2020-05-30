@@ -8,5 +8,5 @@
 
 - [x] Create a team and player return on investment (ROI) metric
 - [x] Create a multidimensional plot function that visualizes the best players
-- [ ] Create function which uses fantasy rules to build team with $100 million
+- [ ] Create function which uses fantasy rules to build team with £100 million
 - [ ] Create pipeline to update recommendation based on injuries
